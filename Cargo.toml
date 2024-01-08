@@ -1,12 +1,12 @@
 [package]
-name = "ardu-rs"
+name = "rust-arduino"
 version = "0.1.0"
 authors = ["Ahmet Kaan GÜMÜŞ <96421894+Tahinli@users.noreply.github.com>"]
 edition = "2021"
 license = "MIT OR Apache-2.0 OR GPL-3.0"
 
 [[bin]]
-name = "ardu-rs"
+name = "rust-arduino"
 test = false
 bench = false
 
